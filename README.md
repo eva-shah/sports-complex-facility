@@ -1,4 +1,4 @@
-# 🏟️ Sports Complex Facility Management System  
+# Sports Complex Facility Management System  
 
 [![Made with PHP](https://img.shields.io/badge/Made%20with-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)  
 [![Database: MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)  
@@ -10,20 +10,20 @@ A **web-based system** designed to simplify and digitize the management of sport
 
 ---
 
-## 📌 Features  
+## Features  
 
-- ✅ **Equipment Management** – Track availability, condition, and maintenance schedules.  
-- ✅ **Match Scheduling** – Organize and update matches, resolve scheduling conflicts.  
-- ✅ **Previous Match Results** – Maintain records of past matches for analysis.  
-- ✅ **Payment Management** – Handle membership fees, rentals, and registrations.  
-- ✅ **Member Management** – Register new members, manage memberships, and track details.  
-- ✅ **Access Control** – Secure entry/exit with role-based permissions.  
-- ✅ **Staff Management** – Maintain staff profiles, schedules, and performance records.  
-- ✅ **Sports Details** – List available sports, schedules, and associated rules.  
+- **Equipment Management** – Track availability, condition, and maintenance schedules.  
+- **Match Scheduling** – Organize and update matches, resolve scheduling conflicts.  
+- **Previous Match Results** – Maintain records of past matches for analysis.  
+- **Payment Management** – Handle membership fees, rentals, and registrations.  
+- **Member Management** – Register new members, manage memberships, and track details.  
+- **Access Control** – Secure entry/exit with role-based permissions.  
+- **Staff Management** – Maintain staff profiles, schedules, and performance records.  
+- **Sports Details** – List available sports, schedules, and associated rules.  
 
 ---
 
-## 👥 User Roles  
+## User Roles  
 
 - **Administrators** – Full system control (users, schedules, payments, reports).  
 - **Front Desk Staff** – Handle check-ins, memberships, and payments.  
@@ -34,7 +34,7 @@ A **web-based system** designed to simplify and digitize the management of sport
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP  
@@ -43,7 +43,7 @@ A **web-based system** designed to simplify and digitize the management of sport
 
 ---
 
-## ⚙️ Installation & Setup  
+## Installation & Setup  
 
 1. Clone the repository:  
    ```bash
@@ -57,27 +57,13 @@ A **web-based system** designed to simplify and digitize the management of sport
 
 ---
 
-## 📖 Documentation  
+## Future Enhancements  
 
-- [📄 Project Synopsis](./SportsComplexFacility.pdf)  
-- [📄 Software Requirements Specification (SRS)](./SportsComplexFacility_SRS.pdf)  
+- Mobile app integration  
+- Advanced analytics dashboards  
+- Real-time notifications  
+- Online booking for facilities  
 
----
-
-## 🚀 Future Enhancements  
-
-- 📱 Mobile app integration  
-- 📊 Advanced analytics dashboards  
-- 🔔 Real-time notifications  
-- 🌐 Online booking for facilities  
-
----
-
-## 👩‍💻 Contributors  
-
-- Simran Jain (220911402)  
-- Shreeya Smita Mohanty (220911518)  
-- Eva Shah (220911668)  
 
 ---
 
